@@ -1,2 +1,6 @@
-# python-projects
-Python projects. Showcase all python practices and mini projects.
+# Python Projects 🐍
+
+This repository contains my Python learning projects, including beginner exercises and small scripts.
+
+## Projects
+
